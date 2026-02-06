@@ -1,5 +1,7 @@
 # 🚀 Figma to Next.js with Gemini CLI (Gemini 3)
 
+**An autonomous web application architected and implemented by Gemini CLI (Gemini 3) directly from a Figma design URL. Features automated design extraction, asset management, and responsive Next.js scaffolding.**
+
 This project demonstrates the power of **Gemini CLI** to autonomously architect, scaffold, and design a web application directly from a Figma URL.
 
 **Original Design Reference:** [Figma Design Link](https://www.figma.com/design/0r45uhLbTGcAzsW0b33zBh)
