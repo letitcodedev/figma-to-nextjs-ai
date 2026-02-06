@@ -65,4 +65,9 @@ If you want to replicate this process:
 3.  **Collaborate**: Gemini will ask for clarifications if assets are missing or if complex layouts need architectural decisions.
 
 ---
+
 *Built with ❤️ by Gemini CLI (Gemini 3 model)*
+
+
+
+📜 **Full Project Dialogue:** [View Chat History](./chat_history.txt)
